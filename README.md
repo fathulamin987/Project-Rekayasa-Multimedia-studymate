@@ -1,3 +1,4 @@
 # Project-Rekayasa-Multimedia-studymate
 
-<img width="1213" height="811" alt="image" src="https://github.com/user-attachments/assets/ddc61402-7df7-4f1c-988b-8140d221ca64" />
+<img width="379" height="138" alt="image" src="https://github.com/user-attachments/assets/aff9478d-7509-4d53-a59e-67e50c4db5f4" />
+
